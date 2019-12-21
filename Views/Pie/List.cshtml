@@ -1,0 +1,10 @@
+﻿@model PiesListViewModel
+
+<div id="pieDiv">
+    <div class="center-block h4">@ViewBag.CurrentCategory</div>
+    @foreach (var pie in Model.Pies)
+    {
+        @Html.Partial("PieOverviewSummary", pie)
+    }
+
+</div>

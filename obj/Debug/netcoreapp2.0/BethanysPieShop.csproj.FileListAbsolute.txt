@@ -1,0 +1,14 @@
+C:\Users\fical\source\repos\BethanysPieShop\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\fical\source\repos\BethanysPieShop\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\fical\source\repos\BethanysPieShop\bin\Debug\netcoreapp2.0\Connected Services\Application Insights\ConnectedService.json
+C:\Users\fical\source\repos\BethanysPieShop\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\fical\source\repos\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.AssemblyInfoInputs.cache
+C:\Users\fical\source\repos\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.AssemblyInfo.cs
+C:\Users\fical\source\repos\BethanysPieShop\obj\Debug\netcoreapp2.0\BethanysPieShop.csprojAssemblyReference.cache
+C:\Users\fical\source\repos\BethanysPieShop\bin\Debug\netcoreapp2.0\PieShop.deps.json
+C:\Users\fical\source\repos\BethanysPieShop\bin\Debug\netcoreapp2.0\PieShop.runtimeconfig.json
+C:\Users\fical\source\repos\BethanysPieShop\bin\Debug\netcoreapp2.0\PieShop.runtimeconfig.dev.json
+C:\Users\fical\source\repos\BethanysPieShop\bin\Debug\netcoreapp2.0\PieShop.dll
+C:\Users\fical\source\repos\BethanysPieShop\bin\Debug\netcoreapp2.0\PieShop.pdb
+C:\Users\fical\source\repos\BethanysPieShop\obj\Debug\netcoreapp2.0\PieShop.dll
+C:\Users\fical\source\repos\BethanysPieShop\obj\Debug\netcoreapp2.0\PieShop.pdb
